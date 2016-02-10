@@ -3,28 +3,18 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I’m currently *instrumenting*, *managing*, and *analyzing* data at [Maker’s Row](http://makersrow.com/) in Brooklyn, NY.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Maker’s Row is an online marketplace connecting product-based businesses with American manufacturers. Our mission is to make the manufacturing process simple to understand an easy to access.
 
-There are currently two themes built on Poole:
+Prior to Maker’s Row I also focused on data & analytics, working in the information services space at [RISI](http://risiinfo.com/) from 2011 to 2014 and [GlobalSpec](http://globalspec.com/) from 2007 to 2010.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+I graduated with a dual degree in Management & Economics from [Rensselaer Polytechnic Institute](http://rpi.edu/) in 2009, concentrating in management information systems.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+I consult. Need help? [Reach out](mailto:tim.finkel@gmail.com).
 
-## Setup
+Outside of work I like to cook with my trusty cast iron skillet, stay fit (especially by running), golf, and watch the Boston Bruins, a bad habit I picked up while living there.
 
-Some fun facts about the setup of this project include:
+Want to get in touch? Feel free to [email me](mailto:tim.finkel@gmail.com) or [ask me on Twitter](https://twitter.com/king_fink).
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Thanks for visiting!
