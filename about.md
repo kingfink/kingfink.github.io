@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I’m currently *instrumenting*, *managing*, and *analyzing* data at [Maker’s Row](http://makersrow.com/) in Brooklyn, NY.
+I’m currently **instrumenting**, **managing**, and **analyzing** data at [Maker’s Row](http://makersrow.com/) in Brooklyn, NY.
 
 Maker’s Row is an online marketplace connecting product-based businesses with American manufacturers. Our mission is to make the manufacturing process simple to understand an easy to access.
 
@@ -15,6 +15,6 @@ I consult. Need help? [Reach out](mailto:tim.finkel@gmail.com).
 
 Outside of work I like to cook with my trusty cast iron skillet, stay fit (especially by running), golf, and watch the Boston Bruins, a bad habit I picked up while living there.
 
-Want to get in touch? Feel free to [email me](mailto:tim.finkel@gmail.com) or [ask me on Twitter](https://twitter.com/king_fink).
+Want to get in touch? Feel free to [email me](mailto:tim.finkel@gmail.com) or [reach out on Twitter](https://twitter.com/king_fink).
 
 Thanks for visiting!
