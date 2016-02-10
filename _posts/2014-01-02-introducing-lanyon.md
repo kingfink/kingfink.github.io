@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Introducing Lanyon
+comments: True
+permalink: introducing-lanyon/
 ---
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
@@ -36,3 +38,5 @@ Lanyon is by preference a forward-thinking project. In addition to the latest ve
 Lanyon is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/lanyon">GitHub repository</a> for downloads, bug reports, and features requests.
 
 Thanks!
+
+{% include twitter.html %}

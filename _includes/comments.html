@@ -1,0 +1,20 @@
+{% if page.comments %}
+<!-- Add Disqus comments. -->
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+  var disqus_config = function() {
+    this.page_url = page.url;
+    this.page_identifier = page.id;
+  };
+
+  (
+    function() {
+      var d = document, s = d.createElement('script');
+
+      s.src = '//kingfink.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    }
+  )();
+</script>
+{% endif %}
