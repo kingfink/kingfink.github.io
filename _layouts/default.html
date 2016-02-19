@@ -2,10 +2,11 @@
 <html lang="en-us">
 
   {% include head.html %}
-  {% include analytics.html %}
+  {% include segment.html %}
 
   <body>
-
+    {% include gtm_onload.html %}
+    {% include gtm_main.html %}
     {% include sidebar.html %}
 
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
@@ -51,5 +52,8 @@
         }, false);
       })(document);
     </script>
+
+    <link href="//fonts.googleapis.com/css?family=Fira+Sans:400,700,400italic,700italic|Fira+Mono:400,700" rel="stylesheet">
+
   </body>
 </html>

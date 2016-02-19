@@ -5,11 +5,11 @@ permalink:           pretty
 
 # Setup
 title:               Tim Finkel
-tagline:             'A data guy'
-description:         'A data guy. <a href="https://twitter.com/king_fink" target="_blank">@king_fink</a>.'
+tagline:             Insignificant Digits
+description:         'I''m a data guy. These are my thoughts.'
 url:                 http://timfinkel.com
 baseurl:             ''
-paginate:            5
+paginate:            1
 
 # About/contact
 author:
@@ -29,3 +29,9 @@ pages_list:
   About: '/about'
   Archive: '/archive'
   Feed: '/atom.xml'
+
+# Social
+social_list:
+  Twitter: 'http://twitter.com/king_fink'
+  LinkedIn: 'http://linkedin.com/in/timfinkel'
+  GitHub: 'http://github.com/king_fink'
