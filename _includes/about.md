@@ -1,5 +1,3 @@
-Welcome to my home on the web. I plan to use this space to capture some of my thoughts, a great majority of which may have little to no practical application.
-
 Professionally, I’m currently **instrumenting**, **managing**, and **analyzing** data at [Maker’s Row](http://makersrow.com/) in Brooklyn, NY.
 
 Maker’s Row is an online marketplace connecting product-based businesses with American manufacturers. Our mission is to make the manufacturing process simple to understand an easy to access.
